@@ -10,6 +10,9 @@
 * Now,i post issue about above sentence.(https://github.com/SwiftyJSON/SwiftyJSON/issues/182#issuecomment-88864578)
 * 
 
+## what is carthage
+* It is to manage swift library.Differnce from cocoa-pods is differnece whether to be developed by swift or objective-c.
+
 ## How to use carthage
 * http://qiita.com/susieyy/items/4222989485e16e7eb53e
 * This page is good.
