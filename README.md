@@ -18,4 +18,9 @@
 * This page is good.
 * But,i successed above way on private mac.However i didn't success on my company's mac.
 * I am listening it now(https://github.com/SwiftyJSON/SwiftyJSON/issues/181#issuecomment-89010861)
+* 
+
+## NSURLDomainError(NSURLErrorDomain Code=-1005)
+* i fixed to restart simulator
+* http://stackoverflow.com/questions/25372318/error-domain-nsurlerrordomain-code-1005-the-network-connection-was-lost
 
