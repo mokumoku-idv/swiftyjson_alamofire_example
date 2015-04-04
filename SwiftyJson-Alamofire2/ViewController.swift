@@ -15,15 +15,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        requestData()
     }
     
     func requestData(){
         Alamofire.request(.GET, "http://httpbin.org/get")
             .responseJSON { (request, response, JSON, error) in
                 println(JSON)
+                println(error)
             }
             .responseString { (request, response, string, error) in
                 println(string)
+                println(error)
         }
     }
     
