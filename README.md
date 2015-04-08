@@ -18,7 +18,7 @@
 * This page is good.
 * But,i successed above way on private mac.However i didn't success on my company's mac.
 * I am listening it now(https://github.com/SwiftyJSON/SwiftyJSON/issues/181#issuecomment-89010861)
-* 
+* Above issue was resolved on 2015-04-08.
 
 ## NSURLDomainError(NSURLErrorDomain Code=-1005)
 * i fixed to restart simulator
